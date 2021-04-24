@@ -5,6 +5,25 @@ body {
 	background-color: #ddd;
 	width: 100%;
 }
+.collapsible-menu  {
+	text-align: center;
+	font-size: 22px;
+	border-bottom: 1px solid black;
+	/*border-top: 1px solid black;*/
+}
+/*.collapsible-sep {
+		color: #000000;
+		height: 1px;
+		width: 50%;
+	}
+	*/
+}
+.content-header {
+	text-align: center;
+	font-size: 36px;
+	font-weight: 800;
+	padding: 20px;
+}
 .menu-item {
 	padding: 15px;
 	margin-top: 20px;
