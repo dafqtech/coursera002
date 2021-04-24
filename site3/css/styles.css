@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif;
+}
+.navbar {
+	background-color: #ddd;
+	width: 100%;
+}
+.menu-item {
+	padding: 15px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#menu-chicken {
+ background-color: #5bca35;
+}
+#menu-beef {
+ background-color: #E1901E;
+}
+#menu-sushi {
+ background-color: #8884D5;
+}
+.menu-heading  {
+	text-align: center;
+	font-size: 24px;
+	font-weight: 800;
+}
+.menu-desc {
+	font-size: 16px;
+}
